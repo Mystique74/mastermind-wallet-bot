@@ -1,0 +1,1 @@
+python-telegram-bot==20.3\nweb3==6.5.0\npython-dotenv==1.0.0
